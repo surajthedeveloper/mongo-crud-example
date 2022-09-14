@@ -3,11 +3,11 @@ package com.mongo.crud;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class MongoCrudExampleApplicationTests {
+//@SpringBootTest
+class TutorialControllerTest {
+    @Test
+    void getAllTutorialsTest() {
 
-	@Test
-	void contextLoads() {
-	}
+    }
 
 }
